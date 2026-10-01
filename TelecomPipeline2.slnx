@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../UniXTest/UniXTest.csproj" />
+  <Project Path="TelecomPipeline2.csproj" />
+</Solution>
